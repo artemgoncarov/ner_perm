@@ -40,3 +40,9 @@
 
 - модель на spaCy - [ссылка](https://github.com/artemgoncarov/ner_perm/blob/main/spacy.ipynb)
 - модель на tensorflow - [ссылка](https://github.com/artemgoncarov/ner_perm/blob/main/tenser-ner.ipynb)
+
+# Работали над проектом:
+
+- [Андреасян Егор](https://github.com/EgorAndrik)
+- Алехин Андрей
+- [Гончаров Артём](https://github.com/artemgoncarov)
